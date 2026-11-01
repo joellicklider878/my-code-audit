@@ -1,0 +1,501 @@
+customer_id,name,email,phone,address,dob,order_total
+CUST001,Jane Smith,jane.smith1@example.com,555-859-5506,"350 Cedar Rd, Los Angeles",1999-08-19,341.58
+CUST002,Robert Johnson,robert.johnson2@example.com,555-704-7912,"132 Oak St, New York",1989-03-18,124.0
+CUST003,Lisa Smith,lisa.smith3@example.com,555-674-4257,"833 View Rd, Los Angeles",1968-07-11,298.74
+CUST004,John Williams,john.williams4@example.com,555-814-7924,"448 Main St, Los Angeles",1989-07-05,479.03
+CUST005,Sarah Johnson,sarah.johnson5@example.com,555-194-7224,"199 Elm St, San Antonio",1977-12-20,305.83
+CUST006,John Garcia,john.garcia6@example.com,555-649-3045,"487 Pine St, Phoenix",1982-07-11,416.41
+CUST007,Lisa Miller,lisa.miller7@example.com,555-691-4150,"821 Pine St, New York",1988-05-19,388.8
+CUST008,Jane Brown,jane.brown8@example.com,555-987-2654,"489 Main St, Houston",1976-02-05,89.7
+CUST009,Sarah Brown,sarah.brown9@example.com,555-786-5374,"818 Pine St, Phoenix",1993-06-22,271.73
+CUST010,Emily Williams,emily.williams10@example.com,555-573-7216,"376 Cedar Rd, Philadelphia",1979-09-25,423.0
+CUST011,John Brown,john.brown11@example.com,555-941-1525,"924 Elm St, Houston",1984-10-21,42.43
+CUST012,Lisa Miller,lisa.miller12@example.com,555-317-9179,"505 Broadway, Los Angeles",1985-01-23,78.42
+CUST013,Robert Rodriguez,robert.rodriguez13@example.com,555-369-8019,"697 View Rd, Chicago",1989-02-24,498.69
+CUST014,Michael Rodriguez,michael.rodriguez14@example.com,555-605-2489,"873 Oak St, San Antonio",1998-12-28,84.89
+CUST015,Michael Davis,michael.davis15@example.com,555-710-2040,"494 View Rd, Phoenix",1966-11-01,269.27
+CUST016,Robert Smith,robert.smith16@example.com,555-796-2876,"798 Main St, San Antonio",1978-04-23,64.66
+CUST017,James Williams,james.williams17@example.com,555-564-1053,"839 Main St, Phoenix",1992-10-18,258.76
+CUST018,Jane Jones,jane.jones18@example.com,555-961-9317,"723 Cedar Rd, Los Angeles",1975-04-13,383.63
+CUST019,Robert Rodriguez,robert.rodriguez19@example.com,555-100-6310,"600 Oak St, New York",1976-04-05,440.57
+CUST020,David Brown,david.brown20@example.com,555-159-4946,"999 Pine St, New York",1965-03-24,409.85
+CUST021,Robert Williams,robert.williams21@example.com,555-231-8787,"662 Maple Ave, Chicago",1961-06-27,437.49
+CUST022,James Brown,james.brown22@example.com,555-652-4295,"830 Main St, Houston",1975-04-29,224.67
+CUST023,Robert Garcia,robert.garcia23@example.com,555-223-5061,"330 Pine St, Chicago",2006-12-09,298.27
+CUST024,Emily Wilson,emily.wilson24@example.com,555-325-1117,"172 Oak St, Los Angeles",2002-10-12,453.66
+CUST025,Sarah Johnson,sarah.johnson25@example.com,555-626-4899,"385 Broadway, Los Angeles",1960-06-13,74.83
+CUST026,Lisa Wilson,lisa.wilson26@example.com,555-584-4981,"903 Broadway, San Antonio",1972-04-22,103.3
+CUST027,Jane Davis,jane.davis27@example.com,555-462-7939,"520 Broadway, San Antonio",2003-12-19,339.95
+CUST028,Jane Smith,jane.smith28@example.com,555-512-6559,"919 Pine St, Los Angeles",1991-08-21,103.2
+CUST029,Anna Williams,anna.williams29@example.com,555-532-4006,"385 Broadway, Los Angeles",2002-01-23,227.13
+CUST030,Robert Johnson,robert.johnson30@example.com,555-151-9856,"956 Oak St, New York",1987-08-15,91.49
+CUST031,Anna Garcia,anna.garcia31@example.com,555-318-7570,"160 Maple Ave, Houston",2008-08-19,492.8
+CUST032,David Garcia,david.garcia32@example.com,555-392-7930,"813 Broadway, Los Angeles",1991-10-16,155.39
+CUST033,John Wilson,john.wilson33@example.com,555-853-9883,"162 Elm St, New York",2004-04-29,296.25
+CUST034,Robert Rodriguez,robert.rodriguez34@example.com,555-261-1931,"620 Pine St, San Antonio",1992-02-26,43.58
+CUST035,Jane Brown,jane.brown35@example.com,555-513-2964,"683 Cedar Rd, Phoenix",2005-04-05,313.5
+CUST036,James Wilson,james.wilson36@example.com,555-678-9565,"423 Main St, Los Angeles",1980-08-21,126.96
+CUST037,James Williams,james.williams37@example.com,555-787-5915,"568 Elm St, San Antonio",2002-04-26,14.56
+CUST038,Lisa Wilson,lisa.wilson38@example.com,555-202-2200,"650 Cedar Rd, Phoenix",1985-01-12,74.9
+CUST039,Sarah Johnson,sarah.johnson39@example.com,555-350-7054,"391 Maple Ave, Houston",1960-02-03,354.73
+CUST040,Lisa Rodriguez,lisa.rodriguez40@example.com,555-108-5905,"779 Pine St, Los Angeles",1985-02-05,66.56
+CUST041,Jane Rodriguez,jane.rodriguez41@example.com,555-259-5462,"388 Cedar Rd, Philadelphia",1978-01-24,109.76
+CUST042,David Rodriguez,david.rodriguez42@example.com,555-600-5114,"966 Oak St, New York",1970-10-29,416.38
+CUST043,John Smith,john.smith43@example.com,555-441-3143,"752 Main St, Los Angeles",1969-03-09,280.32
+CUST044,James Rodriguez,james.rodriguez44@example.com,555-109-2832,"177 Maple Ave, Phoenix",2005-08-05,418.95
+CUST045,Lisa Rodriguez,lisa.rodriguez45@example.com,555-251-8041,"230 Oak St, Chicago",1976-02-11,450.5
+CUST046,John Miller,john.miller46@example.com,555-315-5088,"782 Pine St, Chicago",1958-08-06,443.23
+CUST047,James Wilson,james.wilson47@example.com,555-867-3532,"342 Maple Ave, San Antonio",1992-12-10,441.89
+CUST048,John Williams,john.williams48@example.com,555-854-6442,"901 View Rd, San Antonio",1986-07-25,140.73
+CUST049,Jane Davis,jane.davis49@example.com,555-993-1634,"979 Broadway, Los Angeles",1990-12-03,410.13
+CUST050,Anna Miller,anna.miller50@example.com,555-412-4728,"328 Oak St, Philadelphia",1991-07-02,205.25
+CUST051,David Johnson,david.johnson51@example.com,555-891-5573,"459 View Rd, Philadelphia",1960-09-20,172.26
+CUST052,John Johnson,john.johnson52@example.com,555-998-5279,"282 Main St, New York",1999-02-06,302.32
+CUST053,Sarah Miller,sarah.miller53@example.com,555-546-9379,"218 View Rd, Phoenix",1991-10-10,134.81
+CUST054,James Smith,james.smith54@example.com,555-632-9821,"803 Cedar Rd, Chicago",1970-02-18,44.29
+CUST055,Sarah Wilson,sarah.wilson55@example.com,555-421-3041,"837 Main St, Phoenix",1981-01-29,336.78
+CUST056,Sarah Davis,sarah.davis56@example.com,555-813-5844,"667 Maple Ave, Los Angeles",1971-02-08,335.82
+CUST057,James Williams,james.williams57@example.com,555-730-5930,"515 Oak St, Chicago",1983-02-01,112.99
+CUST058,Lisa Wilson,lisa.wilson58@example.com,555-770-6279,"576 Broadway, Houston",1989-08-27,260.48
+CUST059,Michael Johnson,michael.johnson59@example.com,555-390-9445,"779 Elm St, New York",1987-10-03,339.67
+CUST060,Emily Brown,emily.brown60@example.com,555-250-1400,"147 Cedar Rd, Houston",2002-04-17,233.15
+CUST061,Lisa Brown,lisa.brown61@example.com,555-835-7291,"606 View Rd, Los Angeles",1995-08-03,331.47
+CUST062,John Johnson,john.johnson62@example.com,555-897-7965,"324 Maple Ave, San Antonio",1962-05-11,237.63
+CUST063,Robert Brown,robert.brown63@example.com,555-968-2988,"567 Maple Ave, San Antonio",1967-02-21,337.11
+CUST064,Robert Wilson,robert.wilson64@example.com,555-424-8251,"727 View Rd, San Antonio",1959-09-04,228.5
+CUST065,Michael Garcia,michael.garcia65@example.com,555-560-5246,"869 Cedar Rd, San Antonio",1983-12-13,385.25
+CUST066,Robert Garcia,robert.garcia66@example.com,555-741-4919,"381 Broadway, New York",1983-03-12,124.9
+CUST067,Sarah Miller,sarah.miller67@example.com,555-653-2320,"241 Maple Ave, Los Angeles",1974-06-18,350.04
+CUST068,Emily Johnson,emily.johnson68@example.com,555-524-7678,"438 Broadway, Houston",2003-03-29,111.35
+CUST069,James Davis,james.davis69@example.com,555-888-1320,"977 View Rd, Houston",2008-04-18,471.94
+CUST070,David Davis,david.davis70@example.com,555-973-7865,"651 Cedar Rd, Houston",1989-02-20,143.74
+CUST071,Anna Smith,anna.smith71@example.com,555-498-6507,"784 View Rd, Philadelphia",1994-01-07,421.85
+CUST072,Michael Wilson,michael.wilson72@example.com,555-646-1441,"503 Oak St, New York",1970-05-17,76.49
+CUST073,Anna Williams,anna.williams73@example.com,555-151-5262,"488 Elm St, Los Angeles",1968-01-13,170.15
+CUST074,James Jones,james.jones74@example.com,555-870-7906,"358 Pine St, Houston",2007-02-01,377.02
+CUST075,John Miller,john.miller75@example.com,555-329-2124,"899 Oak St, San Antonio",2006-01-16,475.31
+CUST076,Emily Smith,emily.smith76@example.com,555-736-3496,"344 Maple Ave, Houston",1998-07-25,286.35
+CUST077,Emily Garcia,emily.garcia77@example.com,555-816-5198,"885 Elm St, Los Angeles",1998-07-20,391.12
+CUST078,Michael Jones,michael.jones78@example.com,555-210-1420,"419 View Rd, Houston",1991-01-13,47.24
+CUST079,Emily Johnson,emily.johnson79@example.com,555-813-5941,"970 Pine St, San Antonio",1958-01-20,393.49
+CUST080,Sarah Rodriguez,sarah.rodriguez80@example.com,555-538-7071,"170 Elm St, New York",1971-02-21,412.94
+CUST081,Jane Davis,jane.davis81@example.com,555-470-8532,"824 Maple Ave, Houston",1993-01-09,369.56
+CUST082,David Wilson,david.wilson82@example.com,555-927-9817,"893 Broadway, Houston",1969-10-01,414.61
+CUST083,Lisa Jones,lisa.jones83@example.com,555-430-5022,"950 Pine St, Chicago",1968-05-20,129.49
+CUST084,Anna Wilson,anna.wilson84@example.com,555-724-7209,"444 Oak St, Houston",1979-09-01,99.1
+CUST085,Emily Miller,emily.miller85@example.com,555-916-5232,"448 Main St, Phoenix",1984-01-16,282.34
+CUST086,Robert Brown,robert.brown86@example.com,555-187-4954,"837 View Rd, Houston",1959-01-07,381.5
+CUST087,Anna Garcia,anna.garcia87@example.com,555-558-1282,"195 Main St, Los Angeles",1972-07-18,348.98
+CUST088,David Wilson,david.wilson88@example.com,555-477-8753,"666 Elm St, Houston",1959-06-13,172.09
+CUST089,Anna Jones,anna.jones89@example.com,555-413-5118,"336 Pine St, Philadelphia",1991-07-20,164.62
+CUST090,Robert Williams,robert.williams90@example.com,555-296-4545,"856 Broadway, Chicago",1961-10-04,302.43
+CUST091,Jane Brown,jane.brown91@example.com,555-403-4727,"469 Maple Ave, Chicago",2007-07-23,356.93
+CUST092,Michael Jones,michael.jones92@example.com,555-146-1893,"666 Main St, Philadelphia",1997-07-01,322.56
+CUST093,Anna Johnson,anna.johnson93@example.com,555-993-1200,"687 Main St, Houston",1965-11-17,225.83
+CUST094,Michael Smith,michael.smith94@example.com,555-358-8827,"216 Pine St, Houston",1964-09-16,46.3
+CUST095,John Williams,john.williams95@example.com,555-252-5978,"187 Cedar Rd, New York",1958-10-05,384.58
+CUST096,Lisa Wilson,lisa.wilson96@example.com,555-909-4697,"894 View Rd, Houston",1969-02-08,155.7
+CUST097,Lisa Davis,lisa.davis97@example.com,555-412-1986,"724 Pine St, San Antonio",1990-03-09,316.5
+CUST098,David Johnson,david.johnson98@example.com,555-260-4929,"277 Pine St, Los Angeles",2008-08-02,210.17
+CUST099,Lisa Garcia,lisa.garcia99@example.com,555-398-1534,"337 Main St, Philadelphia",1983-06-18,354.46
+CUST100,Anna Johnson,anna.johnson100@example.com,555-803-4824,"370 Cedar Rd, Houston",1998-07-13,276.84
+CUST101,Michael Jones,michael.jones101@example.com,555-946-3330,"173 Oak St, Los Angeles",1981-03-25,301.57
+CUST102,Lisa Jones,lisa.jones102@example.com,555-549-3037,"579 Main St, Philadelphia",1972-09-18,471.91
+CUST103,Robert Rodriguez,robert.rodriguez103@example.com,555-605-8172,"182 Oak St, Houston",1979-11-29,305.82
+CUST104,John Johnson,john.johnson104@example.com,555-334-1339,"883 Main St, Phoenix",2005-03-20,383.92
+CUST105,Michael Garcia,michael.garcia105@example.com,555-631-8245,"384 Maple Ave, Phoenix",1969-09-20,321.04
+CUST106,Anna Johnson,anna.johnson106@example.com,555-581-6700,"518 Elm St, Chicago",1999-06-11,430.29
+CUST107,Sarah Davis,sarah.davis107@example.com,555-810-9117,"395 View Rd, San Antonio",1959-06-23,27.98
+CUST108,Jane Miller,jane.miller108@example.com,555-358-6296,"218 View Rd, San Antonio",1962-08-29,414.21
+CUST109,John Rodriguez,john.rodriguez109@example.com,555-573-7770,"155 Cedar Rd, Phoenix",1976-05-15,315.09
+CUST110,Anna Garcia,anna.garcia110@example.com,555-878-1845,"308 Main St, Phoenix",1997-01-26,464.56
+CUST111,Anna Garcia,anna.garcia111@example.com,555-224-1472,"745 Cedar Rd, Philadelphia",1994-08-14,162.27
+CUST112,John Rodriguez,john.rodriguez112@example.com,555-517-2527,"330 Pine St, Houston",1998-04-15,327.38
+CUST113,Michael Garcia,michael.garcia113@example.com,555-833-5781,"621 Main St, Houston",1965-07-16,490.32
+CUST114,Emily Garcia,emily.garcia114@example.com,555-664-3369,"492 Cedar Rd, Phoenix",1963-03-25,375.68
+CUST115,Michael Johnson,michael.johnson115@example.com,555-382-7798,"448 Main St, San Antonio",2008-08-05,148.59
+CUST116,David Wilson,david.wilson116@example.com,555-693-9022,"986 Maple Ave, Houston",1960-07-04,247.33
+CUST117,Sarah Rodriguez,sarah.rodriguez117@example.com,555-881-9903,"486 Broadway, Chicago",1991-11-26,490.58
+CUST118,Emily Wilson,emily.wilson118@example.com,555-492-4826,"976 View Rd, New York",1980-04-12,374.91
+CUST119,James Davis,james.davis119@example.com,555-779-3492,"607 Oak St, Los Angeles",1963-10-06,483.02
+CUST120,Sarah Johnson,sarah.johnson120@example.com,555-995-8213,"202 Broadway, New York",1995-11-23,210.89
+CUST121,Michael Johnson,michael.johnson121@example.com,555-580-5342,"446 View Rd, Philadelphia",2001-08-15,427.36
+CUST122,Robert Davis,robert.davis122@example.com,555-424-8994,"993 Oak St, Phoenix",2002-09-08,125.04
+CUST123,David Brown,david.brown123@example.com,555-864-2480,"544 Pine St, San Antonio",1999-10-23,227.4
+CUST124,David Smith,david.smith124@example.com,555-147-6314,"915 Oak St, Chicago",1976-08-31,193.67
+CUST125,Michael Brown,michael.brown125@example.com,555-643-7751,"679 Maple Ave, Los Angeles",1993-02-13,48.69
+CUST126,James Wilson,james.wilson126@example.com,555-799-4945,"609 Maple Ave, Los Angeles",1967-06-16,322.57
+CUST127,Anna Jones,anna.jones127@example.com,555-782-1153,"923 Broadway, Chicago",1959-10-16,87.41
+CUST128,Anna Miller,anna.miller128@example.com,555-701-5901,"754 View Rd, Philadelphia",1986-05-22,233.85
+CUST129,David Brown,david.brown129@example.com,555-493-8916,"209 Cedar Rd, Houston",1957-07-08,185.89
+CUST130,David Jones,david.jones130@example.com,555-122-7484,"381 Oak St, Phoenix",2004-06-04,456.2
+CUST131,Anna Jones,anna.jones131@example.com,555-894-4770,"721 Elm St, Los Angeles",1991-10-08,314.24
+CUST132,Michael Johnson,michael.johnson132@example.com,555-742-1645,"416 Broadway, New York",1976-02-04,368.86
+CUST133,Jane Jones,jane.jones133@example.com,555-434-7807,"279 Cedar Rd, Los Angeles",1960-06-07,439.47
+CUST134,Sarah Rodriguez,sarah.rodriguez134@example.com,555-613-5465,"950 Maple Ave, Chicago",1965-08-06,484.02
+CUST135,David Miller,david.miller135@example.com,555-923-2886,"579 Pine St, Los Angeles",1988-08-02,431.47
+CUST136,James Rodriguez,james.rodriguez136@example.com,555-474-2479,"909 View Rd, New York",1985-02-06,272.92
+CUST137,Anna Miller,anna.miller137@example.com,555-788-5295,"698 View Rd, San Antonio",1975-07-02,63.09
+CUST138,Emily Garcia,emily.garcia138@example.com,555-125-6374,"724 Cedar Rd, Philadelphia",2003-02-26,321.35
+CUST139,Anna Jones,anna.jones139@example.com,555-764-7689,"219 Maple Ave, New York",2005-06-27,159.14
+CUST140,Anna Johnson,anna.johnson140@example.com,555-199-4846,"650 Maple Ave, Houston",1968-02-17,191.8
+CUST141,Robert Davis,robert.davis141@example.com,555-701-3531,"524 Pine St, San Antonio",1964-12-04,311.67
+CUST142,David Smith,david.smith142@example.com,555-806-7070,"322 Broadway, Houston",1987-08-24,429.17
+CUST143,Jane Miller,jane.miller143@example.com,555-657-6876,"162 View Rd, Chicago",1991-10-19,484.42
+CUST144,Anna Johnson,anna.johnson144@example.com,555-778-4475,"757 Oak St, New York",1978-11-27,129.35
+CUST145,Michael Wilson,michael.wilson145@example.com,555-310-2124,"949 Cedar Rd, Phoenix",1989-06-14,408.4
+CUST146,Emily Miller,emily.miller146@example.com,555-892-3417,"907 Oak St, Chicago",1995-11-05,493.89
+CUST147,Robert Jones,robert.jones147@example.com,555-917-3858,"212 Oak St, Los Angeles",2007-06-30,185.54
+CUST148,Emily Wilson,emily.wilson148@example.com,555-431-1258,"278 Main St, New York",1997-06-15,373.44
+CUST149,Robert Johnson,robert.johnson149@example.com,555-863-2041,"587 Broadway, San Antonio",1976-05-06,261.49
+CUST150,Jane Garcia,jane.garcia150@example.com,555-615-4629,"729 Oak St, Philadelphia",1962-01-17,157.8
+CUST151,John Smith,john.smith151@example.com,555-590-7580,"536 Pine St, Houston",1969-01-12,46.01
+CUST152,Jane Miller,jane.miller152@example.com,555-722-3430,"167 Maple Ave, Chicago",1959-08-19,358.95
+CUST153,James Wilson,james.wilson153@example.com,555-643-5831,"564 View Rd, New York",1998-07-24,427.87
+CUST154,Robert Brown,robert.brown154@example.com,555-540-8398,"333 View Rd, Chicago",1968-02-21,205.38
+CUST155,Jane Miller,jane.miller155@example.com,555-537-6120,"781 Main St, Chicago",1995-02-18,346.54
+CUST156,Anna Johnson,anna.johnson156@example.com,555-193-2398,"195 View Rd, New York",1975-05-25,407.77
+CUST157,Robert Smith,robert.smith157@example.com,555-700-6400,"786 Pine St, Houston",1977-02-07,438.07
+CUST158,James Smith,james.smith158@example.com,555-394-6119,"460 Pine St, Phoenix",1963-04-22,114.24
+CUST159,Anna Brown,anna.brown159@example.com,555-967-2773,"458 Elm St, New York",1983-11-01,291.31
+CUST160,James Rodriguez,james.rodriguez160@example.com,555-885-1430,"723 Main St, New York",1992-08-22,143.9
+CUST161,David Miller,david.miller161@example.com,555-459-1100,"285 Maple Ave, Phoenix",1972-11-14,44.1
+CUST162,John Johnson,john.johnson162@example.com,555-864-9691,"320 View Rd, Houston",1968-02-16,177.04
+CUST163,Sarah Jones,sarah.jones163@example.com,555-838-6314,"895 Pine St, New York",1994-11-13,87.13
+CUST164,Lisa Smith,lisa.smith164@example.com,555-790-2336,"378 Broadway, Philadelphia",1970-10-14,247.97
+CUST165,Anna Davis,anna.davis165@example.com,555-379-4531,"873 Pine St, Chicago",1970-04-04,64.34
+CUST166,Lisa Garcia,lisa.garcia166@example.com,555-639-6053,"146 Cedar Rd, Houston",2003-11-29,13.77
+CUST167,David Brown,david.brown167@example.com,555-885-3248,"882 Main St, Chicago",1979-05-23,68.79
+CUST168,Anna Davis,anna.davis168@example.com,555-279-3116,"489 Cedar Rd, Phoenix",1958-09-13,418.34
+CUST169,Sarah Johnson,sarah.johnson169@example.com,555-506-1693,"546 Oak St, Houston",2001-11-03,432.43
+CUST170,Lisa Davis,lisa.davis170@example.com,555-687-7626,"826 View Rd, Chicago",1998-06-29,208.47
+CUST171,Sarah Williams,sarah.williams171@example.com,555-920-8538,"951 Elm St, New York",1969-08-24,423.8
+CUST172,Emily Davis,emily.davis172@example.com,555-703-7560,"636 Pine St, Houston",1980-12-27,375.44
+CUST173,Emily Miller,emily.miller173@example.com,555-897-3754,"178 Pine St, Phoenix",1963-01-28,105.01
+CUST174,Sarah Miller,sarah.miller174@example.com,555-844-3419,"341 Pine St, Los Angeles",1985-11-11,106.66
+CUST175,Lisa Williams,lisa.williams175@example.com,555-878-2234,"281 Broadway, Houston",1958-04-02,382.34
+CUST176,Anna Wilson,anna.wilson176@example.com,555-758-6295,"984 Elm St, Los Angeles",1969-05-16,43.46
+CUST177,Anna Jones,anna.jones177@example.com,555-915-5500,"705 Oak St, Chicago",1963-04-24,46.35
+CUST178,Anna Garcia,anna.garcia178@example.com,555-138-1932,"477 Main St, New York",2000-09-22,311.35
+CUST179,Robert Davis,robert.davis179@example.com,555-573-1672,"560 Cedar Rd, Chicago",1966-02-26,255.67
+CUST180,John Garcia,john.garcia180@example.com,555-205-6626,"831 Pine St, Phoenix",1993-05-06,29.18
+CUST181,Anna Garcia,anna.garcia181@example.com,555-636-9564,"724 Maple Ave, Chicago",1975-05-18,459.79
+CUST182,James Davis,james.davis182@example.com,555-893-6543,"795 Oak St, San Antonio",1978-10-21,42.3
+CUST183,Jane Rodriguez,jane.rodriguez183@example.com,555-794-7333,"390 Main St, Philadelphia",1995-05-03,173.35
+CUST184,Lisa Williams,lisa.williams184@example.com,555-458-6082,"771 View Rd, Los Angeles",2001-03-23,161.7
+CUST185,James Miller,james.miller185@example.com,555-932-3093,"786 Pine St, Philadelphia",1970-11-03,259.16
+CUST186,John Miller,john.miller186@example.com,555-416-3953,"319 Elm St, San Antonio",1965-03-14,104.08
+CUST187,Michael Williams,michael.williams187@example.com,555-179-5846,"964 Pine St, Phoenix",1960-05-26,419.21
+CUST188,Robert Smith,robert.smith188@example.com,555-777-6517,"997 Maple Ave, Phoenix",1975-01-11,85.58
+CUST189,Michael Wilson,michael.wilson189@example.com,555-928-3712,"838 Broadway, New York",1971-12-19,188.51
+CUST190,Emily Garcia,emily.garcia190@example.com,555-725-5668,"870 Broadway, Los Angeles",1960-12-01,127.19
+CUST191,Anna Brown,anna.brown191@example.com,555-476-8218,"572 Main St, San Antonio",1974-07-26,256.42
+CUST192,James Williams,james.williams192@example.com,555-936-4271,"920 Maple Ave, San Antonio",1986-05-25,35.57
+CUST193,Anna Miller,anna.miller193@example.com,555-667-2680,"828 Pine St, Chicago",2001-04-20,383.93
+CUST194,David Garcia,david.garcia194@example.com,555-625-3414,"950 View Rd, New York",1988-11-27,410.18
+CUST195,Sarah Smith,sarah.smith195@example.com,555-524-1872,"505 Elm St, Los Angeles",1974-03-08,497.32
+CUST196,Sarah Brown,sarah.brown196@example.com,555-128-6221,"201 Elm St, San Antonio",1995-09-22,77.42
+CUST197,David Garcia,david.garcia197@example.com,555-812-3273,"877 Broadway, Houston",2008-05-09,453.87
+CUST198,John Jones,john.jones198@example.com,555-320-3449,"661 View Rd, New York",1982-12-24,126.44
+CUST199,Jane Smith,jane.smith199@example.com,555-344-7878,"754 Broadway, New York",1998-11-18,419.98
+CUST200,Anna Wilson,anna.wilson200@example.com,555-648-1269,"747 Cedar Rd, Philadelphia",1995-12-12,152.72
+CUST201,John Wilson,john.wilson201@example.com,555-461-4941,"684 View Rd, Los Angeles",2001-02-22,266.51
+CUST202,Sarah Johnson,sarah.johnson202@example.com,555-638-9914,"619 Oak St, Houston",1966-08-25,31.33
+CUST203,James Miller,james.miller203@example.com,555-359-1266,"465 Pine St, Chicago",1987-03-12,369.14
+CUST204,Jane Wilson,jane.wilson204@example.com,555-852-6447,"236 Oak St, Chicago",1959-11-04,175.89
+CUST205,Michael Garcia,michael.garcia205@example.com,555-812-8840,"746 Maple Ave, San Antonio",1996-09-23,40.92
+CUST206,Anna Smith,anna.smith206@example.com,555-400-4302,"144 Cedar Rd, New York",1980-07-06,467.35
+CUST207,Robert Davis,robert.davis207@example.com,555-934-9897,"584 Main St, New York",1991-09-06,150.19
+CUST208,John Miller,john.miller208@example.com,555-379-3039,"918 Elm St, Houston",1972-12-09,374.22
+CUST209,James Miller,james.miller209@example.com,555-291-9129,"808 Broadway, Chicago",1962-03-29,140.69
+CUST210,Jane Davis,jane.davis210@example.com,555-180-8055,"716 Maple Ave, Phoenix",1982-06-21,167.39
+CUST211,Jane Miller,jane.miller211@example.com,555-776-5843,"413 Broadway, Phoenix",1970-08-07,91.66
+CUST212,Anna Miller,anna.miller212@example.com,555-557-1693,"844 Elm St, Phoenix",1969-10-21,144.53
+CUST213,John Johnson,john.johnson213@example.com,555-787-7655,"472 Maple Ave, New York",1996-01-07,425.85
+CUST214,Anna Smith,anna.smith214@example.com,555-229-2101,"341 Elm St, Chicago",1974-06-24,475.24
+CUST215,John Wilson,john.wilson215@example.com,555-257-8371,"479 Elm St, Houston",2001-12-05,291.22
+CUST216,Robert Miller,robert.miller216@example.com,555-507-6150,"765 Main St, Los Angeles",1998-08-25,22.7
+CUST217,Michael Garcia,michael.garcia217@example.com,555-630-7340,"675 Pine St, Chicago",1985-06-22,354.98
+CUST218,Emily Wilson,emily.wilson218@example.com,555-392-9047,"304 Pine St, Los Angeles",2002-03-08,231.5
+CUST219,Anna Johnson,anna.johnson219@example.com,555-929-6236,"783 Elm St, Philadelphia",2003-01-01,279.5
+CUST220,David Jones,david.jones220@example.com,555-971-3580,"828 Maple Ave, San Antonio",1976-05-24,259.29
+CUST221,Jane Brown,jane.brown221@example.com,555-911-3275,"342 Broadway, New York",1976-06-13,281.47
+CUST222,Sarah Garcia,sarah.garcia222@example.com,555-922-3126,"726 Pine St, New York",1981-01-29,205.1
+CUST223,Anna Rodriguez,anna.rodriguez223@example.com,555-520-7708,"943 Pine St, Los Angeles",1980-05-20,324.75
+CUST224,Anna Garcia,anna.garcia224@example.com,555-796-9476,"452 Maple Ave, San Antonio",1959-05-14,323.5
+CUST225,Michael Williams,michael.williams225@example.com,555-543-9238,"989 Oak St, San Antonio",1997-09-08,263.87
+CUST226,David Williams,david.williams226@example.com,555-265-6286,"826 Cedar Rd, Chicago",1962-04-10,448.51
+CUST227,Jane Jones,jane.jones227@example.com,555-301-5496,"228 Main St, Phoenix",1960-12-18,55.78
+CUST228,Michael Wilson,michael.wilson228@example.com,555-694-3526,"275 Elm St, San Antonio",1958-04-06,30.19
+CUST229,John Johnson,john.johnson229@example.com,555-146-5336,"766 Cedar Rd, San Antonio",1957-07-01,214.13
+CUST230,John Garcia,john.garcia230@example.com,555-742-9938,"396 Main St, Houston",1986-11-09,404.3
+CUST231,James Jones,james.jones231@example.com,555-564-2195,"805 Oak St, Los Angeles",1969-05-22,213.65
+CUST232,Anna Brown,anna.brown232@example.com,555-448-3353,"420 Elm St, Philadelphia",1977-11-03,487.93
+CUST233,Michael Miller,michael.miller233@example.com,555-627-2739,"426 Cedar Rd, Houston",1997-11-01,141.06
+CUST234,Emily Williams,emily.williams234@example.com,555-199-1829,"397 View Rd, San Antonio",1971-04-25,131.65
+CUST235,Michael Miller,michael.miller235@example.com,555-691-6123,"294 Maple Ave, Houston",1962-08-25,238.74
+CUST236,David Garcia,david.garcia236@example.com,555-123-2475,"502 Broadway, Los Angeles",1989-07-11,295.84
+CUST237,John Smith,john.smith237@example.com,555-388-9108,"711 Broadway, Chicago",1960-09-04,14.01
+CUST238,Jane Davis,jane.davis238@example.com,555-237-5333,"844 Elm St, San Antonio",1972-08-25,189.31
+CUST239,James Smith,james.smith239@example.com,555-683-4189,"471 Main St, New York",1974-03-02,257.09
+CUST240,Robert Jones,robert.jones240@example.com,555-945-2946,"231 Pine St, Houston",1975-05-07,399.5
+CUST241,Sarah Rodriguez,sarah.rodriguez241@example.com,555-474-3363,"303 View Rd, Phoenix",2005-03-19,32.2
+CUST242,Michael Miller,michael.miller242@example.com,555-923-8761,"631 Broadway, Los Angeles",1962-07-30,78.49
+CUST243,Lisa Miller,lisa.miller243@example.com,555-266-7438,"731 Main St, Phoenix",1978-08-25,258.58
+CUST244,Robert Rodriguez,robert.rodriguez244@example.com,555-601-5911,"586 Oak St, Chicago",1979-02-09,340.17
+CUST245,James Wilson,james.wilson245@example.com,555-415-1436,"711 Broadway, Chicago",1956-12-05,293.04
+CUST246,John Wilson,john.wilson246@example.com,555-591-3793,"636 View Rd, Los Angeles",1987-02-05,25.47
+CUST247,Jane Brown,jane.brown247@example.com,555-119-8225,"421 View Rd, Los Angeles",1971-10-12,348.35
+CUST248,James Rodriguez,james.rodriguez248@example.com,555-893-8726,"993 Oak St, Philadelphia",1996-06-09,264.15
+CUST249,Robert Miller,robert.miller249@example.com,555-778-8837,"638 View Rd, Chicago",1993-04-16,235.24
+CUST250,Robert Miller,robert.miller250@example.com,555-659-6804,"792 Main St, Phoenix",1965-05-22,104.21
+CUST251,Emily Jones,emily.jones251@example.com,555-671-5890,"330 Main St, San Antonio",1982-11-24,355.4
+CUST252,Anna Miller,anna.miller252@example.com,555-591-6714,"673 Main St, Chicago",1997-11-22,291.0
+CUST253,Robert Davis,robert.davis253@example.com,555-504-6654,"891 Maple Ave, Chicago",2005-01-19,150.94
+CUST254,Jane Miller,jane.miller254@example.com,555-552-5201,"865 Broadway, Los Angeles",1990-09-12,415.7
+CUST255,David Rodriguez,david.rodriguez255@example.com,555-812-5450,"240 Pine St, Phoenix",1987-05-12,128.8
+CUST256,Robert Brown,robert.brown256@example.com,555-753-4814,"153 Pine St, Houston",1979-03-12,361.51
+CUST257,Jane Williams,jane.williams257@example.com,555-105-3587,"516 Broadway, Houston",1990-12-07,380.4
+CUST258,David Miller,david.miller258@example.com,555-392-1969,"887 Pine St, Philadelphia",1957-04-26,123.79
+CUST259,John Williams,john.williams259@example.com,555-527-3880,"137 View Rd, San Antonio",1964-05-20,101.29
+CUST260,David Smith,david.smith260@example.com,555-109-5888,"681 Pine St, Chicago",1983-04-19,232.63
+CUST261,Robert Rodriguez,robert.rodriguez261@example.com,555-605-3198,"971 Broadway, Chicago",1991-07-12,406.32
+CUST262,Sarah Williams,sarah.williams262@example.com,555-848-8518,"763 Main St, Philadelphia",1992-02-14,16.9
+CUST263,Sarah Jones,sarah.jones263@example.com,555-681-4164,"279 View Rd, San Antonio",1970-06-16,262.49
+CUST264,Jane Davis,jane.davis264@example.com,555-785-2562,"289 Maple Ave, Houston",1979-10-18,468.55
+CUST265,John Jones,john.jones265@example.com,555-492-4858,"557 Main St, Chicago",1981-09-26,295.41
+CUST266,Lisa Smith,lisa.smith266@example.com,555-367-6890,"809 Cedar Rd, New York",1998-03-22,238.04
+CUST267,Michael Davis,michael.davis267@example.com,555-802-9233,"820 Main St, Philadelphia",1998-04-17,322.97
+CUST268,David Miller,david.miller268@example.com,555-729-4618,"324 Maple Ave, Houston",1995-01-31,232.94
+CUST269,Lisa Miller,lisa.miller269@example.com,555-525-8714,"875 Cedar Rd, San Antonio",1986-08-17,343.37
+CUST270,Lisa Johnson,lisa.johnson270@example.com,555-638-8319,"640 Elm St, New York",1958-03-19,64.98
+CUST271,Robert Rodriguez,robert.rodriguez271@example.com,555-307-9792,"253 Maple Ave, Chicago",1962-02-22,226.5
+CUST272,Emily Wilson,emily.wilson272@example.com,555-600-2489,"622 Broadway, San Antonio",2003-11-01,232.18
+CUST273,Robert Davis,robert.davis273@example.com,555-567-1945,"672 Broadway, Philadelphia",1981-03-06,364.41
+CUST274,James Jones,james.jones274@example.com,555-936-1049,"863 Cedar Rd, Phoenix",2002-04-10,32.19
+CUST275,Sarah Johnson,sarah.johnson275@example.com,555-654-1987,"170 Broadway, New York",1983-01-26,210.34
+CUST276,Michael Davis,michael.davis276@example.com,555-483-7266,"559 View Rd, Houston",2001-08-17,344.54
+CUST277,Robert Williams,robert.williams277@example.com,555-769-6697,"221 Maple Ave, Phoenix",1973-07-25,269.13
+CUST278,Emily Smith,emily.smith278@example.com,555-874-1372,"405 Broadway, Philadelphia",1959-12-25,217.82
+CUST279,James Brown,james.brown279@example.com,555-353-8546,"454 Maple Ave, Chicago",1991-12-01,469.33
+CUST280,Jane Smith,jane.smith280@example.com,555-928-7868,"729 Oak St, Los Angeles",1990-05-04,42.97
+CUST281,Lisa Smith,lisa.smith281@example.com,555-557-1797,"350 Oak St, Houston",1969-06-12,124.83
+CUST282,Emily Smith,emily.smith282@example.com,555-243-9255,"396 Cedar Rd, San Antonio",1957-02-21,166.26
+CUST283,Lisa Miller,lisa.miller283@example.com,555-342-5944,"997 Maple Ave, Philadelphia",1962-01-23,118.31
+CUST284,David Jones,david.jones284@example.com,555-162-3869,"741 View Rd, Phoenix",1964-05-12,32.97
+CUST285,Sarah Davis,sarah.davis285@example.com,555-904-9592,"426 View Rd, Houston",1995-06-10,156.95
+CUST286,Michael Rodriguez,michael.rodriguez286@example.com,555-584-4948,"969 Cedar Rd, Chicago",1995-11-16,404.83
+CUST287,John Rodriguez,john.rodriguez287@example.com,555-522-7824,"670 Maple Ave, Houston",1987-01-15,134.95
+CUST288,Sarah Johnson,sarah.johnson288@example.com,555-560-7079,"194 Cedar Rd, New York",1984-09-28,194.81
+CUST289,Lisa Wilson,lisa.wilson289@example.com,555-140-2192,"292 Cedar Rd, Houston",1990-02-01,436.04
+CUST290,Sarah Jones,sarah.jones290@example.com,555-115-4470,"294 Pine St, Philadelphia",1965-11-10,458.08
+CUST291,Lisa Brown,lisa.brown291@example.com,555-506-4921,"665 Elm St, San Antonio",1983-06-07,196.52
+CUST292,Robert Miller,robert.miller292@example.com,555-415-5285,"468 Broadway, Houston",1999-12-24,403.38
+CUST293,Anna Miller,anna.miller293@example.com,555-308-7073,"420 View Rd, New York",1958-05-12,433.4
+CUST294,Michael Smith,michael.smith294@example.com,555-367-7841,"402 Maple Ave, Los Angeles",1979-03-26,122.71
+CUST295,Lisa Brown,lisa.brown295@example.com,555-611-6530,"363 Broadway, Philadelphia",1964-10-24,235.81
+CUST296,Sarah Williams,sarah.williams296@example.com,555-243-9954,"600 Maple Ave, Phoenix",2003-07-23,266.73
+CUST297,Jane Smith,jane.smith297@example.com,555-882-1104,"522 Maple Ave, San Antonio",1988-01-24,43.3
+CUST298,Michael Smith,michael.smith298@example.com,555-323-9285,"566 Elm St, New York",1965-06-23,333.05
+CUST299,John Smith,john.smith299@example.com,555-644-7739,"112 Oak St, Phoenix",1984-03-06,272.51
+CUST300,David Smith,david.smith300@example.com,555-614-8054,"925 Maple Ave, New York",2000-03-08,266.95
+CUST301,Emily Brown,emily.brown301@example.com,555-734-9625,"358 Elm St, Chicago",1973-03-21,48.72
+CUST302,James Garcia,james.garcia302@example.com,555-678-4984,"813 Cedar Rd, Chicago",2001-08-05,330.33
+CUST303,John Johnson,john.johnson303@example.com,555-515-7213,"486 Broadway, New York",2007-12-24,354.39
+CUST304,Jane Garcia,jane.garcia304@example.com,555-965-8109,"760 Elm St, Phoenix",2000-04-09,448.45
+CUST305,John Brown,john.brown305@example.com,555-316-8790,"377 Oak St, New York",1983-09-03,450.66
+CUST306,Lisa Smith,lisa.smith306@example.com,555-283-6152,"116 Cedar Rd, Phoenix",1995-11-22,378.6
+CUST307,James Johnson,james.johnson307@example.com,555-406-3661,"677 Cedar Rd, Phoenix",1973-11-30,341.75
+CUST308,Robert Miller,robert.miller308@example.com,555-493-3292,"909 Pine St, Phoenix",1977-10-18,36.31
+CUST309,James Brown,james.brown309@example.com,555-958-2245,"448 View Rd, San Antonio",1979-07-19,24.52
+CUST310,David Garcia,david.garcia310@example.com,555-602-4737,"464 View Rd, Houston",1992-02-29,343.05
+CUST311,James Johnson,james.johnson311@example.com,555-890-5839,"917 Cedar Rd, Philadelphia",2002-03-26,50.2
+CUST312,Michael Davis,michael.davis312@example.com,555-828-3527,"857 View Rd, Chicago",1976-06-19,62.21
+CUST313,John Jones,john.jones313@example.com,555-555-6896,"879 Main St, New York",1996-12-09,52.78
+CUST314,James Garcia,james.garcia314@example.com,555-670-9395,"517 Pine St, New York",2000-10-14,183.42
+CUST315,Jane Wilson,jane.wilson315@example.com,555-712-6315,"984 View Rd, New York",1982-08-23,212.77
+CUST316,Jane Rodriguez,jane.rodriguez316@example.com,555-348-9537,"273 View Rd, Los Angeles",1996-05-15,141.77
+CUST317,David Garcia,david.garcia317@example.com,555-249-2036,"271 View Rd, Chicago",1971-01-18,156.88
+CUST318,Jane Miller,jane.miller318@example.com,555-357-5040,"838 Broadway, Phoenix",1991-04-14,234.35
+CUST319,Michael Jones,michael.jones319@example.com,555-106-7483,"440 View Rd, San Antonio",1979-04-06,225.71
+CUST320,James Wilson,james.wilson320@example.com,555-239-5922,"428 Cedar Rd, Houston",1980-08-21,97.04
+CUST321,James Miller,james.miller321@example.com,555-398-9044,"689 Cedar Rd, Chicago",1975-02-02,147.35
+CUST322,James Miller,james.miller322@example.com,555-216-4273,"706 Maple Ave, Philadelphia",1959-06-23,23.19
+CUST323,Anna Brown,anna.brown323@example.com,555-548-5773,"951 Pine St, San Antonio",1972-02-14,339.76
+CUST324,Michael Jones,michael.jones324@example.com,555-347-5139,"774 Maple Ave, Philadelphia",1970-11-12,396.65
+CUST325,Jane Garcia,jane.garcia325@example.com,555-712-8851,"696 View Rd, Phoenix",1963-05-18,462.51
+CUST326,James Rodriguez,james.rodriguez326@example.com,555-137-6890,"818 Pine St, New York",1986-07-22,332.22
+CUST327,Sarah Williams,sarah.williams327@example.com,555-762-1725,"676 View Rd, San Antonio",1979-01-29,483.2
+CUST328,James Johnson,james.johnson328@example.com,555-110-2615,"364 Cedar Rd, Phoenix",1962-04-14,283.42
+CUST329,Lisa Brown,lisa.brown329@example.com,555-556-7129,"500 Broadway, San Antonio",1963-12-05,83.87
+CUST330,John Garcia,john.garcia330@example.com,555-207-5840,"525 Pine St, New York",1996-02-12,180.68
+CUST331,Sarah Garcia,sarah.garcia331@example.com,555-903-4389,"633 Broadway, Chicago",1966-02-09,57.84
+CUST332,Anna Miller,anna.miller332@example.com,555-168-5919,"145 Pine St, New York",1978-01-18,327.51
+CUST333,Michael Brown,michael.brown333@example.com,555-628-3858,"665 Maple Ave, Chicago",1958-08-07,218.92
+CUST334,Anna Brown,anna.brown334@example.com,555-916-7636,"744 Maple Ave, Los Angeles",1970-01-21,203.84
+CUST335,Lisa Brown,lisa.brown335@example.com,555-560-8037,"498 Oak St, Philadelphia",1989-07-22,110.83
+CUST336,Jane Wilson,jane.wilson336@example.com,555-204-9796,"291 Elm St, Chicago",1991-02-23,234.2
+CUST337,David Garcia,david.garcia337@example.com,555-640-6134,"711 View Rd, Phoenix",1973-08-11,297.63
+CUST338,Sarah Miller,sarah.miller338@example.com,555-965-8501,"732 Maple Ave, San Antonio",1982-02-21,460.15
+CUST339,Lisa Johnson,lisa.johnson339@example.com,555-788-3194,"420 Pine St, Los Angeles",1981-06-06,67.3
+CUST340,Sarah Williams,sarah.williams340@example.com,555-623-7364,"528 Maple Ave, Phoenix",1974-05-27,217.29
+CUST341,Anna Rodriguez,anna.rodriguez341@example.com,555-810-3838,"668 Maple Ave, Houston",1982-11-30,78.75
+CUST342,Sarah Garcia,sarah.garcia342@example.com,555-734-1878,"986 Elm St, New York",1965-05-08,76.9
+CUST343,James Rodriguez,james.rodriguez343@example.com,555-617-9109,"518 Broadway, Houston",1969-01-02,249.46
+CUST344,Jane Wilson,jane.wilson344@example.com,555-131-4613,"399 Oak St, Chicago",1988-08-27,273.43
+CUST345,Michael Garcia,michael.garcia345@example.com,555-679-9115,"662 Pine St, Phoenix",1998-07-31,141.27
+CUST346,Robert Miller,robert.miller346@example.com,555-655-1681,"878 Broadway, Phoenix",1989-03-21,494.99
+CUST347,Jane Brown,jane.brown347@example.com,555-404-1528,"560 Main St, Chicago",2001-01-08,225.14
+CUST348,Jane Brown,jane.brown348@example.com,555-314-6744,"981 View Rd, Los Angeles",1996-05-02,394.58
+CUST349,Emily Smith,emily.smith349@example.com,555-683-6747,"645 Main St, Phoenix",1960-06-28,92.5
+CUST350,David Jones,david.jones350@example.com,555-686-5380,"978 Pine St, Los Angeles",1971-11-25,460.2
+CUST351,David Williams,david.williams351@example.com,555-818-3174,"355 Maple Ave, Philadelphia",1979-12-06,415.96
+CUST352,James Garcia,james.garcia352@example.com,555-245-5402,"742 View Rd, Houston",1968-04-11,47.0
+CUST353,Jane Davis,jane.davis353@example.com,555-627-5558,"811 Elm St, Houston",1965-01-15,170.37
+CUST354,John Johnson,john.johnson354@example.com,555-848-8511,"750 Elm St, San Antonio",2003-02-22,399.88
+CUST355,James Brown,james.brown355@example.com,555-539-4470,"606 Main St, Chicago",1983-05-21,175.5
+CUST356,Lisa Williams,lisa.williams356@example.com,555-679-8951,"907 Elm St, Philadelphia",2004-06-25,32.51
+CUST357,Anna Smith,anna.smith357@example.com,555-227-3588,"551 Broadway, New York",1970-06-12,109.14
+CUST358,Michael Jones,michael.jones358@example.com,555-262-5489,"195 Elm St, Chicago",2001-06-07,192.2
+CUST359,Michael Smith,michael.smith359@example.com,555-505-6005,"843 Cedar Rd, Houston",2000-08-23,354.81
+CUST360,John Brown,john.brown360@example.com,555-588-2276,"235 Cedar Rd, Phoenix",1968-11-24,14.55
+CUST361,Sarah Johnson,sarah.johnson361@example.com,555-980-7919,"810 Maple Ave, Houston",2002-06-22,122.18
+CUST362,Jane Johnson,jane.johnson362@example.com,555-205-6133,"476 Main St, Los Angeles",1974-06-28,389.0
+CUST363,Michael Williams,michael.williams363@example.com,555-170-9691,"676 Oak St, Phoenix",1994-02-07,225.65
+CUST364,Emily Williams,emily.williams364@example.com,555-521-8248,"980 Cedar Rd, New York",1999-10-24,78.61
+CUST365,Jane Wilson,jane.wilson365@example.com,555-847-7291,"459 View Rd, Chicago",1996-04-13,131.42
+CUST366,Jane Brown,jane.brown366@example.com,555-666-5668,"897 Oak St, San Antonio",1981-10-06,110.67
+CUST367,Lisa Rodriguez,lisa.rodriguez367@example.com,555-293-7418,"402 Oak St, San Antonio",1987-05-10,252.49
+CUST368,Jane Brown,jane.brown368@example.com,555-611-2163,"640 Oak St, Chicago",1980-06-07,74.67
+CUST369,Lisa Davis,lisa.davis369@example.com,555-474-9951,"799 Maple Ave, San Antonio",1966-07-27,477.68
+CUST370,Jane Smith,jane.smith370@example.com,555-701-2106,"114 Main St, Los Angeles",2005-04-02,462.06
+CUST371,James Rodriguez,james.rodriguez371@example.com,555-393-9209,"885 View Rd, Houston",1972-09-26,50.39
+CUST372,Robert Rodriguez,robert.rodriguez372@example.com,555-730-3501,"384 Pine St, Chicago",2001-09-26,260.54
+CUST373,Emily Williams,emily.williams373@example.com,555-649-6353,"500 Pine St, Chicago",1969-07-30,367.68
+CUST374,Emily Smith,emily.smith374@example.com,555-350-2412,"544 Pine St, Houston",2003-11-21,161.55
+CUST375,Michael Johnson,michael.johnson375@example.com,555-112-3248,"818 Oak St, Los Angeles",1964-04-16,476.98
+CUST376,Robert Rodriguez,robert.rodriguez376@example.com,555-901-5247,"270 Elm St, Los Angeles",1984-09-18,369.14
+CUST377,Jane Smith,jane.smith377@example.com,555-443-8034,"378 Pine St, Chicago",1957-02-03,317.49
+CUST378,Anna Garcia,anna.garcia378@example.com,555-623-6900,"156 Broadway, San Antonio",1957-12-20,91.77
+CUST379,Michael Jones,michael.jones379@example.com,555-891-2685,"687 Pine St, Los Angeles",1963-03-06,11.26
+CUST380,John Brown,john.brown380@example.com,555-147-8729,"472 View Rd, Los Angeles",1992-10-08,466.27
+CUST381,John Rodriguez,john.rodriguez381@example.com,555-922-7870,"329 Elm St, Los Angeles",1971-06-26,458.77
+CUST382,Sarah Jones,sarah.jones382@example.com,555-945-2276,"685 Elm St, New York",1963-10-15,339.93
+CUST383,John Williams,john.williams383@example.com,555-328-9450,"147 View Rd, New York",1967-02-06,434.36
+CUST384,David Miller,david.miller384@example.com,555-188-8483,"108 Elm St, Los Angeles",1982-09-01,286.27
+CUST385,David Wilson,david.wilson385@example.com,555-348-8600,"477 Broadway, San Antonio",1991-04-18,368.91
+CUST386,Robert Brown,robert.brown386@example.com,555-254-1104,"519 Oak St, Los Angeles",1960-03-29,179.75
+CUST387,John Miller,john.miller387@example.com,555-101-7164,"969 Main St, New York",1990-06-02,269.61
+CUST388,Emily Davis,emily.davis388@example.com,555-603-1981,"245 Main St, New York",2004-11-20,461.42
+CUST389,Robert Davis,robert.davis389@example.com,555-817-7102,"569 Pine St, Phoenix",2000-04-02,257.66
+CUST390,James Johnson,james.johnson390@example.com,555-706-2020,"545 Maple Ave, Los Angeles",1982-08-29,137.89
+CUST391,Sarah Davis,sarah.davis391@example.com,555-817-6345,"425 Broadway, Chicago",1987-11-14,46.6
+CUST392,Emily Williams,emily.williams392@example.com,555-898-2785,"259 Pine St, Los Angeles",1968-06-29,238.37
+CUST393,James Johnson,james.johnson393@example.com,555-648-6870,"888 Cedar Rd, Houston",1981-03-02,237.04
+CUST394,Jane Johnson,jane.johnson394@example.com,555-261-5984,"946 Oak St, Los Angeles",1979-06-02,82.68
+CUST395,Emily Miller,emily.miller395@example.com,555-505-9412,"150 Main St, Chicago",1993-03-24,25.23
+CUST396,James Garcia,james.garcia396@example.com,555-669-5093,"196 Broadway, New York",1996-04-14,69.51
+CUST397,John Brown,john.brown397@example.com,555-233-4246,"943 View Rd, Chicago",2001-04-15,295.34
+CUST398,David Johnson,david.johnson398@example.com,555-122-2056,"302 Broadway, San Antonio",1997-04-09,55.07
+CUST399,Sarah Johnson,sarah.johnson399@example.com,555-143-8552,"151 Maple Ave, Phoenix",1969-12-19,412.63
+CUST400,James Garcia,james.garcia400@example.com,555-130-7270,"799 View Rd, Los Angeles",1977-01-26,115.21
+CUST401,Michael Jones,michael.jones401@example.com,555-386-8307,"252 Oak St, Phoenix",1986-10-11,327.17
+CUST402,Anna Davis,anna.davis402@example.com,555-663-8848,"162 Pine St, Chicago",1974-06-19,77.25
+CUST403,Emily Rodriguez,emily.rodriguez403@example.com,555-355-9907,"913 Oak St, Houston",1976-08-10,245.05
+CUST404,Anna Miller,anna.miller404@example.com,555-679-9231,"429 View Rd, Chicago",1992-09-10,22.77
+CUST405,Lisa Brown,lisa.brown405@example.com,555-130-5602,"159 Broadway, Phoenix",1976-10-04,385.75
+CUST406,Emily Williams,emily.williams406@example.com,555-202-5060,"772 Cedar Rd, Chicago",1960-12-12,409.98
+CUST407,John Brown,john.brown407@example.com,555-689-7363,"463 Maple Ave, Los Angeles",1987-08-09,300.33
+CUST408,Sarah Wilson,sarah.wilson408@example.com,555-128-6761,"681 Maple Ave, Phoenix",1991-12-09,419.98
+CUST409,Anna Rodriguez,anna.rodriguez409@example.com,555-416-3876,"602 Oak St, New York",2003-10-15,123.99
+CUST410,Emily Smith,emily.smith410@example.com,555-639-8831,"100 Elm St, Phoenix",1990-10-02,405.16
+CUST411,Sarah Williams,sarah.williams411@example.com,555-921-6301,"160 Oak St, Los Angeles",1996-02-13,389.44
+CUST412,Robert Miller,robert.miller412@example.com,555-174-7120,"821 View Rd, Phoenix",1999-10-06,174.91
+CUST413,Sarah Williams,sarah.williams413@example.com,555-261-8157,"910 Broadway, Philadelphia",1980-05-12,95.36
+CUST414,Robert Wilson,robert.wilson414@example.com,555-905-6846,"328 Maple Ave, Houston",1981-04-20,369.66
+CUST415,David Williams,david.williams415@example.com,555-281-1029,"818 View Rd, San Antonio",1957-11-30,25.87
+CUST416,Lisa Miller,lisa.miller416@example.com,555-928-4619,"754 Pine St, Houston",1996-03-17,172.27
+CUST417,Jane Brown,jane.brown417@example.com,555-455-6234,"271 Pine St, San Antonio",1978-09-15,228.85
+CUST418,David Brown,david.brown418@example.com,555-355-2110,"458 Main St, San Antonio",1999-02-18,363.0
+CUST419,John Davis,john.davis419@example.com,555-548-7875,"270 View Rd, Houston",1974-11-07,182.1
+CUST420,James Johnson,james.johnson420@example.com,555-948-8855,"907 Cedar Rd, Los Angeles",1968-05-04,46.12
+CUST421,John Jones,john.jones421@example.com,555-120-6221,"367 Pine St, New York",1978-02-28,93.35
+CUST422,James Williams,james.williams422@example.com,555-849-2228,"660 Pine St, Chicago",1965-07-08,355.21
+CUST423,James Williams,james.williams423@example.com,555-721-8113,"260 Oak St, New York",1979-02-14,110.72
+CUST424,Emily Davis,emily.davis424@example.com,555-813-9849,"371 Main St, Chicago",1987-07-08,57.0
+CUST425,James Wilson,james.wilson425@example.com,555-662-9043,"257 Oak St, Chicago",2008-06-25,219.53
+CUST426,David Wilson,david.wilson426@example.com,555-591-4271,"199 Oak St, Los Angeles",1993-07-02,322.71
+CUST427,Jane Garcia,jane.garcia427@example.com,555-964-2892,"415 View Rd, Houston",1964-12-12,448.49
+CUST428,David Johnson,david.johnson428@example.com,555-757-9914,"496 Maple Ave, Chicago",1974-08-09,191.01
+CUST429,Anna Smith,anna.smith429@example.com,555-369-8204,"576 Main St, Los Angeles",1984-09-24,286.48
+CUST430,Michael Johnson,michael.johnson430@example.com,555-187-6632,"927 View Rd, San Antonio",1988-05-31,281.26
+CUST431,James Rodriguez,james.rodriguez431@example.com,555-528-9773,"803 Broadway, Phoenix",1987-09-08,243.37
+CUST432,Jane Davis,jane.davis432@example.com,555-974-1568,"614 Maple Ave, New York",1968-07-16,94.71
+CUST433,Michael Brown,michael.brown433@example.com,555-927-4157,"229 Oak St, Houston",2001-10-18,494.26
+CUST434,James Brown,james.brown434@example.com,555-942-3422,"954 Main St, Chicago",2002-10-25,52.64
+CUST435,Robert Davis,robert.davis435@example.com,555-665-6343,"977 Main St, Phoenix",1967-09-22,459.41
+CUST436,John Wilson,john.wilson436@example.com,555-701-9561,"900 View Rd, New York",1971-08-24,83.32
+CUST437,Lisa Wilson,lisa.wilson437@example.com,555-696-2641,"208 Pine St, San Antonio",1983-02-28,435.06
+CUST438,Sarah Davis,sarah.davis438@example.com,555-370-7275,"770 Broadway, Phoenix",1966-05-22,28.36
+CUST439,David Davis,david.davis439@example.com,555-247-7581,"139 View Rd, Chicago",1987-07-07,34.15
+CUST440,Anna Jones,anna.jones440@example.com,555-481-1331,"445 Main St, Chicago",1983-09-04,422.99
+CUST441,Jane Brown,jane.brown441@example.com,555-237-5923,"861 Broadway, San Antonio",1980-01-15,142.02
+CUST442,James Wilson,james.wilson442@example.com,555-761-2462,"292 Broadway, Los Angeles",1972-04-18,373.06
+CUST443,Robert Miller,robert.miller443@example.com,555-940-1920,"627 Maple Ave, New York",1980-11-30,357.69
+CUST444,James Williams,james.williams444@example.com,555-899-9589,"682 Oak St, Los Angeles",1991-07-14,438.84
+CUST445,Emily Smith,emily.smith445@example.com,555-355-1541,"567 Oak St, Chicago",1990-12-18,144.25
+CUST446,Anna Rodriguez,anna.rodriguez446@example.com,555-506-3029,"797 Oak St, Los Angeles",1975-05-31,249.51
+CUST447,Anna Williams,anna.williams447@example.com,555-991-8775,"700 Elm St, Chicago",1994-02-26,420.45
+CUST448,David Johnson,david.johnson448@example.com,555-391-1449,"495 Oak St, Los Angeles",1957-06-27,392.12
+CUST449,Emily Brown,emily.brown449@example.com,555-762-4688,"793 Cedar Rd, Chicago",1972-02-02,261.51
+CUST450,John Garcia,john.garcia450@example.com,555-235-3837,"715 Oak St, Los Angeles",1986-03-08,308.09
+CUST451,David Jones,david.jones451@example.com,555-533-7168,"972 Elm St, Houston",1986-03-21,116.92
+CUST452,David Rodriguez,david.rodriguez452@example.com,555-944-7506,"698 Pine St, New York",1962-12-08,499.72
+CUST453,Sarah Rodriguez,sarah.rodriguez453@example.com,555-762-5631,"405 Pine St, Houston",2003-02-06,174.78
+CUST454,David Miller,david.miller454@example.com,555-982-5536,"367 Main St, Los Angeles",1995-05-18,263.47
+CUST455,Emily Smith,emily.smith455@example.com,555-924-7620,"776 Elm St, Philadelphia",1996-04-09,363.43
+CUST456,Anna Jones,anna.jones456@example.com,555-365-7857,"514 View Rd, Philadelphia",2005-08-28,295.68
+CUST457,Lisa Brown,lisa.brown457@example.com,555-451-4643,"802 Broadway, Philadelphia",1976-08-30,258.58
+CUST458,Michael Rodriguez,michael.rodriguez458@example.com,555-285-5813,"199 Broadway, Los Angeles",1985-08-15,365.34
+CUST459,Robert Williams,robert.williams459@example.com,555-796-6499,"770 Pine St, Los Angeles",1976-12-14,119.43
+CUST460,David Davis,david.davis460@example.com,555-907-6428,"480 Main St, Phoenix",1982-06-12,237.24
+CUST461,Jane Garcia,jane.garcia461@example.com,555-154-2166,"583 Cedar Rd, Phoenix",1998-01-28,435.07
+CUST462,James Rodriguez,james.rodriguez462@example.com,555-405-7768,"155 Maple Ave, Los Angeles",1990-11-09,177.91
+CUST463,Lisa Garcia,lisa.garcia463@example.com,555-246-6183,"983 Maple Ave, San Antonio",2001-07-29,248.91
+CUST464,Michael Miller,michael.miller464@example.com,555-749-1950,"104 Broadway, Chicago",1990-01-15,382.98
+CUST465,Michael Wilson,michael.wilson465@example.com,555-882-3595,"601 Pine St, Los Angeles",1969-12-01,320.41
+CUST466,James Davis,james.davis466@example.com,555-588-7280,"104 Oak St, Phoenix",1990-12-08,368.02
+CUST467,John Miller,john.miller467@example.com,555-875-9700,"295 Oak St, Philadelphia",2008-06-15,317.08
+CUST468,Emily Brown,emily.brown468@example.com,555-810-6641,"419 Maple Ave, New York",1974-06-01,256.63
+CUST469,David Williams,david.williams469@example.com,555-166-1749,"405 Main St, Houston",1962-02-24,302.22
+CUST470,Sarah Davis,sarah.davis470@example.com,555-803-3192,"450 Broadway, Chicago",1991-12-03,90.79
+CUST471,James Smith,james.smith471@example.com,555-333-4675,"844 Maple Ave, Los Angeles",2006-11-10,298.95
+CUST472,Michael Johnson,michael.johnson472@example.com,555-475-1612,"484 Main St, San Antonio",1960-11-07,315.34
+CUST473,Lisa Smith,lisa.smith473@example.com,555-777-2771,"769 Oak St, New York",1998-06-09,214.22
+CUST474,James Johnson,james.johnson474@example.com,555-660-5140,"585 Maple Ave, Los Angeles",2007-12-29,157.55
+CUST475,Jane Rodriguez,jane.rodriguez475@example.com,555-376-3247,"528 Pine St, Phoenix",1998-04-07,148.53
+CUST476,Jane Garcia,jane.garcia476@example.com,555-303-4272,"896 Main St, San Antonio",1961-11-22,486.83
+CUST477,Sarah Davis,sarah.davis477@example.com,555-402-3627,"140 Broadway, Los Angeles",1965-09-14,172.0
+CUST478,John Smith,john.smith478@example.com,555-787-2458,"213 Broadway, Los Angeles",2000-09-29,391.97
+CUST479,Jane Johnson,jane.johnson479@example.com,555-362-4787,"567 Main St, Chicago",1967-03-05,34.54
+CUST480,Michael Smith,michael.smith480@example.com,555-972-5760,"468 Elm St, Houston",1998-06-06,56.55
+CUST481,John Smith,john.smith481@example.com,555-972-3267,"779 Maple Ave, Chicago",1976-10-01,448.32
+CUST482,Lisa Jones,lisa.jones482@example.com,555-999-2522,"481 Elm St, Los Angeles",1998-08-12,206.38
+CUST483,Anna Jones,anna.jones483@example.com,555-955-7319,"806 Broadway, San Antonio",1970-12-28,327.93
+CUST484,Michael Johnson,michael.johnson484@example.com,555-235-1960,"964 Maple Ave, New York",1971-07-03,456.5
+CUST485,Anna Wilson,anna.wilson485@example.com,555-794-8178,"285 View Rd, San Antonio",1976-08-27,309.57
+CUST486,Michael Garcia,michael.garcia486@example.com,555-599-2850,"521 Broadway, New York",2003-02-22,138.19
+CUST487,Sarah Smith,sarah.smith487@example.com,555-821-9598,"885 Cedar Rd, Philadelphia",1978-06-23,264.36
+CUST488,Lisa Johnson,lisa.johnson488@example.com,555-543-5072,"593 Elm St, Philadelphia",1974-04-19,82.84
+CUST489,Robert Wilson,robert.wilson489@example.com,555-155-1190,"758 Maple Ave, Phoenix",1966-09-22,427.42
+CUST490,Michael Johnson,michael.johnson490@example.com,555-869-9055,"428 Cedar Rd, Chicago",1983-11-15,34.67
+CUST491,Emily Rodriguez,emily.rodriguez491@example.com,555-758-7203,"512 Cedar Rd, New York",1967-08-22,227.65
+CUST492,Lisa Garcia,lisa.garcia492@example.com,555-190-9166,"557 Elm St, New York",1964-03-16,375.17
+CUST493,John Johnson,john.johnson493@example.com,555-513-7755,"136 Oak St, San Antonio",2000-09-02,397.97
+CUST494,Lisa Jones,lisa.jones494@example.com,555-620-4389,"770 Broadway, Chicago",1976-03-24,414.4
+CUST495,Emily Garcia,emily.garcia495@example.com,555-439-8751,"833 Elm St, Philadelphia",1968-03-24,65.87
+CUST496,Emily Smith,emily.smith496@example.com,555-449-6818,"949 Main St, Phoenix",1961-12-30,193.21
+CUST497,Jane Smith,jane.smith497@example.com,555-268-9067,"243 View Rd, New York",1986-01-05,309.32
+CUST498,Emily Johnson,emily.johnson498@example.com,555-972-7437,"320 Broadway, San Antonio",1991-09-24,361.23
+CUST499,Jane Davis,jane.davis499@example.com,555-147-3018,"890 Broadway, Houston",1963-08-05,75.97
+CUST500,Anna Smith,anna.smith500@example.com,555-643-1795,"666 View Rd, San Antonio",1965-07-02,462.94
